@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe26520bbc89494ab991db03c52ee74, type: 3}
+  m_Name: Normal Day
+  m_EditorClassIdentifier: 
+  storyText: 'B3d ma nezel Hsen 3l forsa kan mazruk bdo yzarre2 bs kan 3m yfakker
+    bi 7abibto ktir fa ma htam ktir, kan bdo yshufa lyom darure 7atta lw 3emel t7to.
+
+
+    Karrar Hsen:
+
+
+    1) Yru7 yzarre2.
+
+    2) Ydawer 3ala 7abibto.
+
+    3) Yzarre2 t7to.'
+  nextStates:
+  - {fileID: 11400000, guid: e1b98a3cb8c1416449cc056a01307df0, type: 2}
+  - {fileID: 11400000, guid: 30a4ba72a2499654baa196976c814abf, type: 2}

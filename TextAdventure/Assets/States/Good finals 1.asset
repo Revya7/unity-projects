@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe26520bbc89494ab991db03c52ee74, type: 3}
+  m_Name: Good finals 1
+  m_EditorClassIdentifier: 
+  storyText: 'Kan Hsen ktiiir na3sen la2ino ma nam bl marra, fa 7atta lw bdo ydawer
+    3ala 7abibto ma kan ader mn l t3b. Fa karrar ytla3 3l saf ta y23od w yrte7. Lama
+    a3ad Hsen 3l krse ya delle 3le nam bala ma y7es 3ala 7alo.
+
+
+    Ekbes 1 5allesne:
+
+
+    1) Continue'
+  nextStates:
+  - {fileID: 11400000, guid: aeff9373c0dca7d428d0b6b8561801a1, type: 2}

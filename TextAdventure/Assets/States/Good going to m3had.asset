@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe26520bbc89494ab991db03c52ee74, type: 3}
+  m_Name: Good going to m3had
+  m_EditorClassIdentifier: 
+  storyText: 'Tzakar Hsen enno lyom kan newe y7ke m3 7abibto fa lebes 3le w tas ri7a
+    w karrar yru7 3l m3had. B3d ma lebes nezel natar l autocar barra.
+
+
+    Wosel Hsen 3l ma3had w karrar:
+
+
+    1) Ytla3 3l saf.
+
+    2) Ydawer 3ala 7abibto.'
+  nextStates:
+  - {fileID: 11400000, guid: 3726eb6f26762ed4ab3ae7324f07e47c, type: 2}
+  - {fileID: 11400000, guid: 3726eb6f26762ed4ab3ae7324f07e47c, type: 2}

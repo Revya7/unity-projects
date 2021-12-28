@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe26520bbc89494ab991db03c52ee74, type: 3}
+  m_Name: State 1B
+  m_EditorClassIdentifier: 
+  storyText: 'Hsen allak ensa ya fufi l ta2es bared w fi darar enno y2um ysalle bysf2o
+    l hawa w bigarreb w bimut. Laf 7alo bl 7ram w kammal l nawme w abel ma y3ed lal
+    10 kan 3m yosh5or.
+
+
+    Fa2 Hsen b3d se3a w karrar:
+
+
+    1) Y2um ylbes w yru7 3l ma3had.
+
+    2) Ymasse5 w ykammel l nwme.'
+  nextStates:
+  - {fileID: 11400000, guid: 7dcda8f79ea971c43911c13c83dd02fb, type: 2}
+  - {fileID: 11400000, guid: 7dcda8f79ea971c43911c13c83dd02fb, type: 2}

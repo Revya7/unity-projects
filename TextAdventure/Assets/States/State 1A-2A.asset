@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe26520bbc89494ab991db03c52ee74, type: 3}
+  m_Name: State 1A-2A
+  m_EditorClassIdentifier: 
+  storyText: 'Karrar mawlana Hsen yda7e bwa2t l nom l alil li 3ndo yeh krmel yo2ra
+    l do3a2... Ma b3rf kif mmkn ytsawar l w7d fe3el 8er hek menno.
+
+
+    B3d ma 5allas Hsen 2reyet l do3a karrar:
+
+
+    1) Ylbes w yru7 3l m3had.
+
+    2) Yseb bi adab lal m3had w yru7 ynem.'
+  nextStates:
+  - {fileID: 11400000, guid: 950bdc814a08bcc48a741cc469c548d4, type: 2}
+  - {fileID: 11400000, guid: 950bdc814a08bcc48a741cc469c548d4, type: 2}

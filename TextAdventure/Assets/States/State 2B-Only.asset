@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe26520bbc89494ab991db03c52ee74, type: 3}
+  m_Name: State 2B-Only
+  m_EditorClassIdentifier: 
+  storyText: 'Kamal nwme Hsen w fa2 b3d kam se3a. Dahar mn l 8orfe w shefo bayo w
+    sa2alo lesh ma r7t 3l m3had lyom?
+
+
+    Faker hsen w allo:
+
+
+    1) Ma kan ele 5l2 ta3ben.
+
+    2) Bde fut zarre2 mn7ke b3den.'
+  nextStates:
+  - {fileID: 11400000, guid: 69cf096e4668dd143be54fbf1580f3b9, type: 2}
+  - {fileID: 11400000, guid: 69cf096e4668dd143be54fbf1580f3b9, type: 2}

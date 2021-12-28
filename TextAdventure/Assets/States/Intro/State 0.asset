@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe26520bbc89494ab991db03c52ee74, type: 3}
+  m_Name: State 0
+  m_EditorClassIdentifier: 
+  storyText: 'Hede l game bt7ke 3n mo8amaret 7abib l sha3eb wl aleb l mokaddas Hsen
+    ebn raja2.
+
+
+    To start press Enter. To choose options inside click 1 or 2... To quit the game
+    press Escape.
+
+
+    M3 ta7iyat lal keteb wl mobarmeh Mahdi wl artist li ma sawa shi hon Aziz, wl ossa
+    kella Hassuna <3.'
+  nextStates:
+  - {fileID: 11400000, guid: 665467aada894444982d576afb4a9ff8, type: 2}

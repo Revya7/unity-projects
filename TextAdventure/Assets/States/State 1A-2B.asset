@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe26520bbc89494ab991db03c52ee74, type: 3}
+  m_Name: State 1A-2B
+  m_EditorClassIdentifier: 
+  storyText: 'B3d l sala karrar Hsen ynam shwy krmel ykun msa7se7 tene yom. Nat 7sen
+    3l ta5et w tla7af mni7 w defe b3d ma barad fi sabil l islam.
+
+
+    Fa2 Hsen b3d 40 mins w karrar:
+
+
+    1) Y2um ylbes w yru7 3l ma3had.
+
+    2) Yseb w ykamel l nawme.'
+  nextStates:
+  - {fileID: 11400000, guid: 8323622ae10fa9e4aab67164c870724d, type: 2}
+  - {fileID: 11400000, guid: d148d0d293913f44c8e066c3fb24e593, type: 2}

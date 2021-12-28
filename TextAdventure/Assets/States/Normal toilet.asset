@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fe26520bbc89494ab991db03c52ee74, type: 3}
+  m_Name: Normal toilet
+  m_EditorClassIdentifier: 
+  storyText: 'Ra7 Hsen zarra2 w faltar, nta3ash w rej3lo nashato. Dahar w kan 7atet
+    bi raso yshuf shu bdo ysawe bmawdu3 7abibto bs 5ols w2ta l forsa ma eder ysawe
+    shi. Nsam badano Hsen w m3sh rakaz bshi bl marra w 5ols l nhar bsr3a w ma 7as
+    bshi.
+
+
+    B3d ma reje3 hsen 3l bet 7at raso w nem tab.
+
+
+    1) Next Day?
+
+    2) Stop Playing?'
+  nextStates:
+  - {fileID: 11400000, guid: 665467aada894444982d576afb4a9ff8, type: 2}
+  - {fileID: 11400000, guid: 9b3561a863504b54a93da7dac07b9e9c, type: 2}
